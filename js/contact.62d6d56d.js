@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmodule11"]=self["webpackChunkmodule11"]||[]).push([[353],{5806:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var u=t(6768);const a={id:"contact"};function o(e,n){return(0,u.uX)(),(0,u.CE)("div",a,[...n[0]||(n[0]=[(0,u.Lk)("h1",null,"Contact Us",-1),(0,u.Lk)("p",null,[(0,u.eW)("Taylor Svoboda | "),(0,u.Lk)("a",{href:"mailto:tfsvoboda@my.waketech.edu"},"Email Me!")],-1)])])}var r=t(1241);const c={},l=(0,r.A)(c,[["render",o]]);var d=l}}]);
+//# sourceMappingURL=contact.62d6d56d.js.map
