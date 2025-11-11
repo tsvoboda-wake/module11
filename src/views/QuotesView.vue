@@ -1,6 +1,6 @@
 <!--  link this to the Module 10 API page. -->
 <template>
-  <div id="quotes" class="container">
+  <div id="quotes">
     <h1>Random Quote Generator</h1>
 
     <!-- Display the quote or a loading message -->

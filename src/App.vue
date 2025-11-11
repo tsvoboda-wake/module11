@@ -36,4 +36,16 @@ button {
   color: #555;
   margin-top: 5px;
 }
+
+#about {
+  margin: auto;
+  text-align: left;
+  width: 70%;
+}
+
+@media screen and (min-width: 1024px) {
+  #about {
+    width: 50%;
+  }
+}
 </style>
